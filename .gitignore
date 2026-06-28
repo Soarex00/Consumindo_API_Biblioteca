@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+backup_emprestimos.csv
+grafico_emprestimos_por_livro.png
